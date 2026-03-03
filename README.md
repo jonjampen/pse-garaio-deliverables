@@ -10,6 +10,10 @@
 | Master Tracker            | Olaf Jud         |
 | Flexible Rollen           | Silvan Kohler    |
 
+## Deliverables
+### Woche 3
+- [Risikoanalyse](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Risikoanalysen/W3-Risikoanalyse.md)
+
 ## Sitzungen
 
 - [23.02.2026: Gruppen-Meeting](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Meeting-Protokolle/Protokoll%20Gruppen-Meeting%20Garaio%2023-02-2026.pdf)
