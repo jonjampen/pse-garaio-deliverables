@@ -11,7 +11,12 @@
 | Flexible Rollen           | Silvan Kohler    |
 
 ## Deliverables
+
+- [Arbeitsplan](https://github.com/users/jonjampen/projects/9)
+
 ### Woche 3
+
+- [Statusbericht](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Statusberichte/Statusbericht01Garaio.pdf)
 - [Risikoanalyse](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Risikoanalysen/W3-Risikoanalyse.md)
 
 ## Sitzungen
