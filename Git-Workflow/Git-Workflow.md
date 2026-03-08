@@ -2,13 +2,13 @@
 
 ## Feature Branch: Neues Feature implementieren
 
-Neuer Git-Branch erstellen. Branch-Name beginnt mit `feature/*` oder `fix/*`:
+Neuer Git-Branch erstellen. Branch-Name beginnt mit `feature/*` oder `bugfix/*`:
 
 ```
 git checkout -b feature/auth
 ```
 
-Nach jeder Änderung zu diesem Feature einen Commit erstellen (Commit-Message beginnt mit `feat:`, `bugfix:`, `refactor:`, `docs:`, oder `style:`; vgl [convention](https://www.conventionalcommits.org/en/v1.0.0/)):
+Nach jeder Änderung zu diesem Feature einen Commit erstellen (Commit-Message beginnt mit `feat:`, `bugfix:`, `refactor:`, `chore:`, `docs:`, oder `style:`; vgl [convention](https://www.conventionalcommits.org/en/v1.0.0/)):
 
 ```
 git add .
