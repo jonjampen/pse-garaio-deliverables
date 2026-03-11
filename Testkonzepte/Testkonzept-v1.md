@@ -14,7 +14,7 @@ Wir verwenden Continuous Integration (CI), um beim Erstellen jedes Pull-Requests
 
 Der Fokus in diesem Projekt liegt beim Testen der einzelnen Units. Jeder `controller`, jedes `model` und jeder `job` wird individuell getestet.
 
-## Datenbank Tests
+## Testdaten
 
 Testdaten (Fixtures) generieren wir selbst mittels `factory_bot`, dies haben wir im 1. Kunden-Meeting abgemacht. Diese Daten werden für die restlichen Tests verwendet, jedoch wird die Datenbank anderweitig nicht automatisiert getestet, da in RoR die Datenbank sehr nahe an die Models (die bereits über Unit Tests getestet werden) gekoppelt ist.
 
