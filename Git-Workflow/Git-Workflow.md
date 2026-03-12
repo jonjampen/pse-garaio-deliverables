@@ -18,26 +18,13 @@ git push --set-upstream origin feature/auth      # nur das erste Mal, danach ein
 
 ## Pull-Request erstellen
 
-### Rebase
-
-Sobald das ganze Feature implementiert wurde:
-
-```
-git checkout main
-git pull
-git checkout feature/auth
-git rebase main
-# Falls Konflikte auftreten: Lösen und 'git rebase --continue'
-git push --force-with-lease
-```
-
-### Pull-Request
+Nach der 1. Änderung kann ein **Draft** eines Pull Requestes erstellt werden:
 
 Gehe auf: https://github.com/Garaio-REM/provisionary/pulls und erstelle einen neuen Pull-Request. Wähle den Feature-Branch als `compare:` und klicke `Create pull request`.
 
 ![](pr1.png)
 
-Wähle einen passenden **Titel** (Struktur ähnlich wie bei Git-Commits). Copy-Paste folgendes in die **Description** und ersetze die Klammern. Bei Related tickets kann die Issue-Nummer zusammen mit einem Keyword (`closes` oder `fixes`) verwendet werden (z.B. `Closes #1`), um den Pull-Request mit dem Issue zu verlinken. Somit wird der Issue auch automatisch als abgeschlossen markiert, sobald der PR gemerged wird. Wähle einen **Reviewer** aus und klicke anschliessend auf `Create pull request`.
+Wähle einen passenden **Titel** (Struktur ähnlich wie bei Git-Commits). Copy-Paste folgendes in die **Description** und ersetze die Klammern. Bei Related tickets kann die Issue-Nummer zusammen mit einem Keyword (`closes` oder `fixes`) verwendet werden (z.B. `Closes #1`), um den Pull-Request mit dem Issue zu verlinken. Somit wird der Issue auch automatisch als abgeschlossen markiert, sobald der PR gemerged wird. Während der Entwicklung kann die Description fortlaufend aktualisiert werden. Klicke anschliessend au **`Create Draft Pull Request`**.
 
 ```
 ### What does this PR do?
@@ -62,10 +49,26 @@ Wähle einen passenden **Titel** (Struktur ähnlich wie bei Git-Commits). Copy-P
 
 ```
 
-![](pr2.png)
+![](pr3.png)
+
+## Rebase
+
+Sobald das ganze Feature implementiert wurde:
+
+```
+git checkout main
+git pull
+git checkout feature/auth
+git rebase main
+# Falls Konflikte auftreten: Lösen und 'git rebase --continue'
+git push --force-with-lease
+```
 
 ## Pull-Request review & merge
 
-Die als Reviewer markierte Person kann dann mit dem GitHub CLI den Pull-Request lokal testen: `gh pr checkout [PR-Nummer]` und auf GitHub unter `Files Changed` eine Review erstellen. Um verbesserungen zum PR hinzuzufügen, können diese einfach auf den Feature-Branch gepushed werden. Falls alles funktioniert, nochmals überprüfen, dass alle änderungen aus `main` gemerged wurden und dass alle Tests passen. Falls inzwischen änderungen an `main` gemacht wurden, muss der Rebase oben wiederholt werden.
+Klicke auf `Ready for Review` und wähle einen Reviewer.
+![](pr4.png)
+
+Die als Reviewer markierte Person kann dann den Branch lokal auschecken, um den Pull-Request lokal zu testen. Auf GitHub unter `Files Changed` eine Review erstellen. Um verbesserungen zum PR hinzuzufügen, können diese einfach auf den Feature-Branch gepushed werden. Falls alles funktioniert, nochmals überprüfen, dass alle änderungen aus `main` rebased wurden und dass alle Tests passen. Falls inzwischen änderungen an `main` gemacht wurden, muss der Rebase oben wiederholt werden.
 
 Wähle `Merge pull request` (**Create a merge commit**) aus.
