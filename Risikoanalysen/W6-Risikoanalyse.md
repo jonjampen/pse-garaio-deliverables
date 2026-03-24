@@ -2,10 +2,10 @@
 
 - **Datum**: 23.03.2026
 
-## 1. Verzögerungen durch unerwartete schwierigkeiten mit Turbo
+## 1. Verzögerungen durch unerwartete Schwierigkeiten mit Turbo
 
-- **Eintrittswahrscheinlichkeit**: Mittel (da es sich um eine für uns unbekannte Technologie handelt und die Chance schon besteht, dass es dort zu schwierigkeiten kommen könnte).
-- **Gewichtung**: Mittel (Ist als Aufgabe mit weniger grosser Priorität markiert, aber dennoch ein Wunsch des Kunden den wir erfüllen möchten. Diese Aufgabe ist aber nicht aufbauend).
+- **Eintrittswahrscheinlichkeit**: Mittel (da es sich um eine für uns unbekannte Technologie handelt und die Chance schon besteht, dass es dort zu Schwierigkeiten kommen könnte).
+- **Gewichtung**: Mittel (Ist als Aufgabe mit weniger grosser Priorität markiert, aber dennoch ein Wunsch des Kunden, den wir natürlich erfüllen möchten. Diese Aufgabe ist aber nicht aufbauend).
 - **Gegenmassnahmen beim Eintreten des Ereignisses**: Mehr Zeit in Turbo investieren und bei Fragen sich bei Luca informieren.
 
 ## 2. Verzug bei Demo Präsentation und Testkonzept durch das warten auf die Fertigstellung von den Issues
