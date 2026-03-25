@@ -46,10 +46,12 @@ Ausserdem wurden die zukünftigen Präsentationen provisorisch wie folgt geplant
 | ------------ | --------------- |
 | P1           | Sebastian, Noah |
 | P2           | Sebastian, Olaf |
-| D1           | Silvan, Olaf    |
+| D1           | Olaf, Jon       |
 | P3           | Noah, ?         |
 | P4           | Jon             |
 | D2           | Silvan, ?       |
+
+> Update 24.03.26: Jon wird die Demo 1 mit Olaf machen, da Silvan an diesem Termin wegen Zivildienst entschuldigt ist.
 
 ## Sofortige Aufgaben
 
