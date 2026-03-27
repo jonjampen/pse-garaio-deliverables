@@ -26,11 +26,11 @@ Die Stories werden mit dem RoR Integrations-Testtyp getestet. Wir setzen den Fok
 2. Service erstellen, provisionierte Server bearbeiten, Service löschen
 3. Authentifizierungsprozess
 
-Es werden noch weitere Use Cases dazukommen, da uns Luca am nächsten Meeting über bestimmte Änderungen an den Models informieren wird.
+Es werden noch weitere Use Cases dazukommen, da uns Luca nächsten Meeting über bestimmte Änderungen an den Models informieren wird.
 
 ## Installationstest
 
-Wir entwickeln und testen die RoR-Applikation in Dev-Containers. Dies ermöglicht es, die Applikation auf einem beliebigen System laufen zu lassen, ohne dass verschiedene Spezifikationen der Systeme zu Problemen führen können. Die installation wird manuell getestet.
+Wir entwickeln und testen die RoR-Applikation in Dev-Containers. Dies ermöglicht es, die Applikation auf einem beliebigen System laufen zu lassen, ohne dass verschiedene Spezifikationen der Systeme zu Problemen führen können. Die Installation wird manuell getestet.
 
 ## GUI Test
 
@@ -46,6 +46,6 @@ Usability-Tests sind auf Absprache mit dem Kunden nicht nötig.
 
 ## Erste Ergebnisse
 
-Aktuell überprüfen wir 180 Assertions, welche die Models und Controllers der Servers, Services und ProvisionLogEntries testen. Wir haben auch bereits Integrationtests für ausgewählte Abläufe erstellt. Dank der CI-Pipeline wissen wir mit sicherheit, dass alle Tests erfolgreich sind.
+Aktuell überprüfen wir 180 Assertions, welche die Models und Controllers der Servers, Services und ProvisionLogEntries testen. Wir haben auch bereits Integrationtests für ausgewählte Abläufe erstellt. Dank der CI-Pipeline wissen wir mit Sicherheit, dass alle Tests erfolgreich sind.
 
 Weitere Ergebnisse werden in der entsprechenden Präsentation präsentiert.
