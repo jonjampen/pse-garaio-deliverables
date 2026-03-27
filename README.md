@@ -37,7 +37,7 @@
 
 ### Woche 7
 
-- [Testkonzept v1](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Testkonzepte/Testkonzept-v2.md)
+- [Testkonzept v2](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Testkonzepte/Testkonzept-v2.md)
 
 ## Sitzungen
 
