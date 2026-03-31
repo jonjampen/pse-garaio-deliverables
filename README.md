@@ -37,6 +37,8 @@
 
 ### Woche 7
 
+- [Statusbericht](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Statusberichte/Statusbericht05Garaio.pdf)
+- [Risikoanalyse](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Risikoanalysen/W7-Risikoanalyse.md)
 - [Testkonzept v2](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Testkonzepte/Testkonzept-v2.md)
 
 ## Sitzungen
