@@ -41,6 +41,11 @@
 - [Risikoanalyse](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Risikoanalysen/W7-Risikoanalyse.md)
 - [Testkonzept v2](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Testkonzepte/Testkonzept-v2.md)
 
+### Woche 9
+
+- [Statusbericht](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Statusberichte/Statusbericht06Garaio.pdf)
+- [Risikoanalyse](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Risikoanalysen/W9-Risikoanalyse.md)
+
 ## Sitzungen
 
 - [23.02.2026: Gruppen-Meeting](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Meeting-Protokolle/Protokoll%20Gruppen-Meeting%20Garaio%2023-02-2026.pdf)
