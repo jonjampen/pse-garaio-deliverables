@@ -46,6 +46,11 @@
 - [Statusbericht](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Statusberichte/Statusbericht06Garaio.pdf)
 - [Risikoanalyse](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Risikoanalysen/W9-Risikoanalyse.md)
 
+### Woche 10
+
+- [Statusbericht](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Statusberichte/Statusbericht07Garaio.pdf)
+- [Risikoanalyse](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Risikoanalysen/W10-Risikoanalyse.md)
+
 ## Sitzungen
 
 - [23.02.2026: Gruppen-Meeting](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Meeting-Protokolle/Protokoll%20Gruppen-Meeting%20Garaio%2023-02-2026.pdf)
@@ -57,3 +62,4 @@
 - [23.03.2026: Gruppen-Meeting](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Meeting-Protokolle/2026-03-23%20Gruppen-Meeting%20Protokoll.pdf)
 - [27.03.2026: Gruppen-Meeting](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Meeting-Protokolle/Protokoll%20Gruppen-Meeting%20Garaio%2027-03-2026.pdf)
 - [13.04.2026: Gruppen-Meeting](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Meeting-Protokolle/2026-04-13%20Gruppen-Meeting%20Protokoll.pdf)
+- [22.04.2026: Kunden-Meeting](https://github.com/jonjampen/pse-garaio-deliverables/blob/main/Meeting-Protokolle/2026-04-22%20Kunden-Meeting%20Protokoll.pdf)
