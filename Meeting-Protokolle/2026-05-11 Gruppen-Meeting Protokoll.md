@@ -26,8 +26,8 @@
 
 | Wer | Aufgabe | Status / Deadline |
 | :--- | :--- | :--- |
-| **Sebastian** | Bugfix: Status-Sortierung bei den Provision-Logs | ASAP |
-| **Entwicklung** | Sicherstellen, dass Namen für Filters und Extensions unique (eindeutig) sind | Vor Finalisierung |
+| **Sebastian** | Bugfix: Status-Sortierung bei den Provision-Logs | Mittwoch |
+| **Entwicklung** | Sicherstellen, dass Namen für Filters und Extensions unique (eindeutig) sind | Mittwoch |
 | **Jon** | Integration des ASCII-Artworks in die `readme.md` prüfen | Bis Mittwoch |
 | **Noah** | Erstellung der vollständigen Projektdokumentation | Nächste Woche |
 | **Olaf** | Risikoanalyse | Mittwoch |
